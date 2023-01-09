@@ -110,7 +110,6 @@
         <effect name="haptic" library="haptic_effect" uuid="17852d51-161e-11e2-892e-0800200c9a66"/>
         <!--OP_FEATURE_MM_AW END-->
     </effects>
-    </effects>
     <postprocess>
         <stream type="music">
         </stream>
