@@ -77,7 +77,7 @@ persist.radio.add_power_save=1
 ro.recovery.ui.margin_height=48
 
 # Priv-app permissions whitelist
-ro.control_privapp_permissions=log
+#ro.control_privapp_permissions=log
 
 # Seamless transfer
 sys.fflag.override.settings_seamless_transfer=true
